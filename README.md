@@ -37,5 +37,20 @@ The main SQLite table is `reit_portfolio`; reporting views include `vw_zoning_tr
 ## Limitations
 Ghost Hotel flags and buyer/agent rankings are derived screening indicators. Legal, tax, zoning, transaction, and source-system evidence must be independently validated before adverse action.
 
+## Charts and dashboard evidence
+
+### STR price comparison
+![STR price inflation analysis](Charts/str_price_inflation.png)
+
+### Yield and distance trend
+![Yield distance trend](Charts/yield_distance_trend.png)
+
+### Zoning and seasonality evidence
+![STR outliers](Charts/str_slum_outliers.png)
+![Evasion seasonality](Charts/evasion_seasonality.png)
+
+### Power BI dashboard
+![Power BI dashboard evidence](Charts/PowerBI_Dashboard_Evidence.png)
+
 ## Repository contents
 Raw and processed data, SQL architecture, Python pipeline, charts, Power BI deliverables, and supporting reports.
