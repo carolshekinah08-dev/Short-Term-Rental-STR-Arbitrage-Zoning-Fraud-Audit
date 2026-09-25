@@ -5,6 +5,12 @@ This project audits a global real-estate portfolio for short-term-rental (STR) a
 
 These are analytical indicators for legal, tax, and zoning review, not standalone proof of misconduct. The Welch test found no significant mean sale-price difference between flagged Ghost Hotels and Primary Residences (`t = 0.0208`, `p = 0.9833728173`); the data does not support claiming that flagged properties inflate local sale prices.
 
+## Problem Statement 
+Quantify RES-A/STR zoning violations, test whether they inflate local sale prices, and identify arbitrage-syndicate buyers and high-exposure agents for a compliance-review queue.
+
+## Tech Stack
+Python, SQL (SQLite — star-schema reporting model), Power BI, Statistics (Welch's t-test, correlation, Z-score)
+
 ## Verified findings
 
 | Metric | Result |
