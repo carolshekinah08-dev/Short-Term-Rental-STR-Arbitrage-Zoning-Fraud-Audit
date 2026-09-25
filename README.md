@@ -49,6 +49,9 @@ Ghost Hotel flags and buyer/agent rankings are derived screening indicators. Leg
 ![STR outliers](Charts/str_slum_outliers.png)
 ![Evasion seasonality](Charts/evasion_seasonality.png)
 
+### Excel dashboard
+<img width="1605" height="752" alt="Screenshot 2026-09-25 184200" src="https://github.com/user-attachments/assets/60eed70e-098b-4767-9145-558ab8f43976" />
+
 ### Power BI dashboard
 ![Power BI dashboard evidence](Charts/PowerBI_Dashboard_Evidence.png)
 
