@@ -1,0 +1,229 @@
+{
+  "cleaned_rows": 992533,
+  "cleaned_columns": 47,
+  "ghost_hotels": 28184,
+  "primary_residences": 694266,
+  "total_tax_evasion": 602113001.18,
+  "str_records": 99317,
+  "arbitrage_syndicate_rows": 345,
+  "arbitrage_syndicate_buyers": 3,
+  "zoning_tracker": [
+    {
+      "Zoning_Code": "COMM",
+      "Properties": 149261,
+      "STR_Count": 14882,
+      "Primary_Residence_Count": 104398,
+      "Total_Tax_Evasion": 0.0
+    },
+    {
+      "Zoning_Code": "MIXED",
+      "Properties": 281181,
+      "STR_Count": 28191,
+      "Primary_Residence_Count": 196675,
+      "Total_Tax_Evasion": 0.0
+    },
+    {
+      "Zoning_Code": "RES-A",
+      "Properties": 281262,
+      "STR_Count": 28184,
+      "Primary_Residence_Count": 196790,
+      "Total_Tax_Evasion": 602113001.1759266
+    },
+    {
+      "Zoning_Code": "RES-B",
+      "Properties": 280829,
+      "STR_Count": 28060,
+      "Primary_Residence_Count": 196403,
+      "Total_Tax_Evasion": 0.0
+    }
+  ],
+  "top_buyers_by_tax": [
+    {
+      "Buyer_ID": "BUY-3030",
+      "Ghost_Hotels": 38,
+      "Tax_Evasion_Amount": 2457225.9065500023,
+      "Sale_Value_USD": 110901712.94745854
+    },
+    {
+      "Buyer_ID": "BUY-1010",
+      "Ghost_Hotels": 37,
+      "Tax_Evasion_Amount": 2235842.2673913063,
+      "Sale_Value_USD": 103230570.79508016
+    },
+    {
+      "Buyer_ID": "BUY-2020",
+      "Ghost_Hotels": 23,
+      "Tax_Evasion_Amount": 1413317.7301714064,
+      "Sale_Value_USD": 64188255.34747712
+    },
+    {
+      "Buyer_ID": "BUY-2049",
+      "Ghost_Hotels": 7,
+      "Tax_Evasion_Amount": 440517.270655585,
+      "Sale_Value_USD": 26627796.949358236
+    },
+    {
+      "Buyer_ID": "BUY-1811",
+      "Ghost_Hotels": 7,
+      "Tax_Evasion_Amount": 406493.77817044343,
+      "Sale_Value_USD": 30591229.30489698
+    },
+    {
+      "Buyer_ID": "BUY-8545",
+      "Ghost_Hotels": 7,
+      "Tax_Evasion_Amount": 402297.3163534003,
+      "Sale_Value_USD": 31795821.92689932
+    },
+    {
+      "Buyer_ID": "BUY-4681",
+      "Ghost_Hotels": 5,
+      "Tax_Evasion_Amount": 399581.67631539644,
+      "Sale_Value_USD": 25450129.32840907
+    },
+    {
+      "Buyer_ID": "BUY-3680",
+      "Ghost_Hotels": 6,
+      "Tax_Evasion_Amount": 397224.67136197776,
+      "Sale_Value_USD": 29151376.469395995
+    },
+    {
+      "Buyer_ID": "BUY-7306",
+      "Ghost_Hotels": 7,
+      "Tax_Evasion_Amount": 388399.6745385389,
+      "Sale_Value_USD": 28088945.127796862
+    },
+    {
+      "Buyer_ID": "BUY-8932",
+      "Ghost_Hotels": 6,
+      "Tax_Evasion_Amount": 373838.535139771,
+      "Sale_Value_USD": 26921594.96498687
+    }
+  ],
+  "top_buyers_by_count": [
+    {
+      "Buyer_ID": "BUY-3030",
+      "Ghost_Hotels": 38,
+      "Tax_Evasion_Amount": 2457225.9065500023,
+      "Sale_Value_USD": 110901712.94745854
+    },
+    {
+      "Buyer_ID": "BUY-1010",
+      "Ghost_Hotels": 37,
+      "Tax_Evasion_Amount": 2235842.2673913063,
+      "Sale_Value_USD": 103230570.79508016
+    },
+    {
+      "Buyer_ID": "BUY-2020",
+      "Ghost_Hotels": 23,
+      "Tax_Evasion_Amount": 1413317.7301714064,
+      "Sale_Value_USD": 64188255.34747712
+    },
+    {
+      "Buyer_ID": "BUY-5145",
+      "Ghost_Hotels": 14,
+      "Tax_Evasion_Amount": 203999.099361949,
+      "Sale_Value_USD": 20853346.348443832
+    },
+    {
+      "Buyer_ID": "BUY-6110",
+      "Ghost_Hotels": 12,
+      "Tax_Evasion_Amount": 141244.2046200713,
+      "Sale_Value_USD": 32307695.555086814
+    },
+    {
+      "Buyer_ID": "BUY-4117",
+      "Ghost_Hotels": 11,
+      "Tax_Evasion_Amount": 246599.40723580506,
+      "Sale_Value_USD": 30703820.46633169
+    },
+    {
+      "Buyer_ID": "BUY-7546",
+      "Ghost_Hotels": 10,
+      "Tax_Evasion_Amount": 333390.0326652543,
+      "Sale_Value_USD": 29506704.122700892
+    },
+    {
+      "Buyer_ID": "BUY-2808",
+      "Ghost_Hotels": 10,
+      "Tax_Evasion_Amount": 283677.83237078076,
+      "Sale_Value_USD": 27284513.96664449
+    },
+    {
+      "Buyer_ID": "BUY-5896",
+      "Ghost_Hotels": 10,
+      "Tax_Evasion_Amount": 281062.92726522917,
+      "Sale_Value_USD": 30569307.973154746
+    },
+    {
+      "Buyer_ID": "BUY-6243",
+      "Ghost_Hotels": 10,
+      "Tax_Evasion_Amount": 250928.86260890818,
+      "Sale_Value_USD": 34519116.98008583
+    }
+  ],
+  "top_agents_by_tax": [
+    {
+      "Agent_ID": "AGT-401",
+      "Ghost_Hotels": 88,
+      "Tax_Evasion_Amount": 2509207.9433237365
+    },
+    {
+      "Agent_ID": "AGT-192",
+      "Ghost_Hotels": 93,
+      "Tax_Evasion_Amount": 2432244.9069434064
+    },
+    {
+      "Agent_ID": "AGT-114",
+      "Ghost_Hotels": 88,
+      "Tax_Evasion_Amount": 2345185.6383154686
+    },
+    {
+      "Agent_ID": "AGT-430",
+      "Ghost_Hotels": 94,
+      "Tax_Evasion_Amount": 2309244.987866071
+    },
+    {
+      "Agent_ID": "AGT-442",
+      "Ghost_Hotels": 101,
+      "Tax_Evasion_Amount": 2274362.4289797293
+    },
+    {
+      "Agent_ID": "AGT-167",
+      "Ghost_Hotels": 82,
+      "Tax_Evasion_Amount": 2273693.4755106666
+    },
+    {
+      "Agent_ID": "AGT-109",
+      "Ghost_Hotels": 71,
+      "Tax_Evasion_Amount": 2234540.444363811
+    },
+    {
+      "Agent_ID": "AGT-234",
+      "Ghost_Hotels": 83,
+      "Tax_Evasion_Amount": 2226602.4115200094
+    },
+    {
+      "Agent_ID": "AGT-325",
+      "Ghost_Hotels": 85,
+      "Tax_Evasion_Amount": 2198730.422898086
+    },
+    {
+      "Agent_ID": "AGT-485",
+      "Ghost_Hotels": 88,
+      "Tax_Evasion_Amount": 2197033.713593395
+    }
+  ],
+  "tax_by_year": {
+    "2022": 107172234.20139486,
+    "2023": 222146166.91971043,
+    "2024": 211617665.4180392,
+    "2025": 61176934.63678213
+  },
+  "tax_by_country": {
+    "US": 245666515.9685937,
+    "UK": 116420627.2162461,
+    "IN": 91124389.41217709,
+    "DE": 89358638.86237392,
+    "FR": 59542829.71653584
+  }
+}

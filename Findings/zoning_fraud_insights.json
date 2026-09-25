@@ -1,0 +1,52 @@
+{
+  "project": "Nexlyra STR Regulatory Audit",
+  "analysis": {
+    "ghost_hotel_price_t_test": {
+      "ghost_hotel_observations": 28184,
+      "primary_residence_observations": 694266,
+      "ghost_hotel_mean_sale_price": 2853671.83,
+      "primary_residence_mean_sale_price": 2853435.84,
+      "t_statistic": 0.0208,
+      "p_value": 0.9833728173,
+      "alpha": 0.05,
+      "result": "Fail to reject H0",
+      "conclusion": "There is insufficient statistical evidence of a difference in mean sale prices between the groups."
+    },
+    "distance_vs_gross_rental_yield": {
+      "observations": 992533,
+      "pearson_correlation": -0.000676,
+      "p_value": 0.5008584301,
+      "result": "Not statistically significant",
+      "direction": "Negative",
+      "conclusion": "There is no statistically significant linear relationship between distance and rental yield."
+    },
+    "tax_evasion_pareto": {
+      "ghost_hotel_records": 28184,
+      "agents_analysed": 400,
+      "total_tax_evasion": 602113001.18,
+      "agents_required_for_approximately_80_percent": 297,
+      "percentage_of_agents": 74.25
+    },
+    "yield_anomaly_detection": {
+      "mean_gross_rental_yield": 0.0063,
+      "standard_deviation": 0.0316,
+      "maximum_z_score": 40.0992,
+      "minimum_z_score": -0.1991,
+      "z_score_threshold": 3,
+      "yield_outliers": 15528,
+      "outlier_percentage": 1.5645
+    },
+    "energy_efficiency_outliers": {
+      "most_common_rating": "C",
+      "outliers_with_most_common_rating": 2613
+    },
+    "crime_index_vs_ghost_hotels": {
+      "ghost_hotel_observations": 28184,
+      "non_ghost_hotel_observations": 964349,
+      "average_crime_index_ghost_hotels": 49.3615,
+      "average_crime_index_non_ghost_hotels": 49.4819,
+      "difference": -0.1204,
+      "interpretation": "Ghost Hotels are located in areas with a lower average Crime Index."
+    }
+  }
+}
